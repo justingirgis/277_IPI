@@ -1,0 +1,14 @@
+/Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=60333:/Applications/IntelliJ IDEA.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/mac/OneDrive - CSULB - Student/CECS 277_new/Homework/IPI/out/production/IPI" GeometricObjectRunner
+Triangle: Area: 3.9999999999999982 Perimeter: 12.790966462797588
+Circle: Center at Point X:4.0 Y:5.0 Radius: 8.0 Area: 200.96 Perimeter: 50.24
+Rectangle: Upper left corner at Point X:0.0 Y:4.0 Width: 4.0 Length: 6.0 Area: 24.0 Perimeter: 20.0
+
+Here is our sorted array according to Arrays.parallelSort: 
+Rectangle: Upper left corner at Point X:0.0 Y:4.0 Width: 4.0 Length: 6.0 Area: 24.0 Perimeter: 20.0
+Circle: Center at Point X:4.0 Y:5.0 Radius: 8.0 Area: 200.96 Perimeter: 50.24
+Triangle: Area: 3.9999999999999982 Perimeter: 12.790966462797588
+
+Here is our max object according to our findMax function:
+Circle: Center at Point X:4.0 Y:5.0 Radius: 8.0 Area: 200.96 Perimeter: 50.24
+
+Process finished with exit code 0
